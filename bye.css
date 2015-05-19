@@ -1,0 +1,10 @@
+.a {
+    width: 80%;
+    background-color: cornflowerblue;
+    border: 2px solid purple;   /* short hand to call multple aspects of a border*/
+    padding: 50px;
+    color: white;               /*color is for the font */
+    font-family: sans-serif;
+
+
+}
